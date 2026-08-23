@@ -1,4 +1,4 @@
-# Selamlar, ben Krala7! 👋
+# Selamlar, ben Keepace! 👋
 
 ## 🚀 Hakkımda
 Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum. Ağ teknolojilerinin yanı sıra yazılım geliştirme süreçlerine de büyük bir tutku duyuyorum. Aktif olarak güçlü ve performanslı yazılımlar üretmek için çalışıyorum.
