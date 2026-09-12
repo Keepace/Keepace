@@ -37,4 +37,4 @@ Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum.
 Eğer projelerim hakkında konuşmak veya ağ/yazılım dünyası üzerine fikir alışverişi yapmak isterseniz bana buralardan ulaşabilirsiniz:
 
 - 🌐 **Web Sitesi:** [craftfrostia.net](https://www.craftfrostia.net)
-- 📧 **E-posta:** [krala71461@gmail.com](mailto:krala71461@gmail.com)
+- 📧 **E-posta:** [keepace14@gmail.com](mailto:keepace14@gmail.com)
