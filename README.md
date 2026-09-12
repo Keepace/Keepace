@@ -38,3 +38,5 @@ Eğer projelerim hakkında konuşmak veya ağ/yazılım dünyası üzerine fikir
 
 - 🌐 **Web Sitesi:** [craftfrostia.net](https://www.craftfrostia.net)
 - 📧 **E-posta:** [keepace14@gmail.com](mailto:keepace14@gmail.com)
+
+- (https://media1.tenor.com/m/0j2SrBcInToAAAAC/l-lawliet-death-note.gif)
