@@ -1,7 +1,7 @@
 # Selamlar, ben Keepace! 👋
 
 ## 🚀 Hakkımda
-Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum. Ağ teknolojilerinin yanı sıra yazılım geliştirme süreçlerine de büyük bir tutku duyuyorum. Aktif olarak güçlü ve performanslı yazılımlar üretmek için çalışıyorum.
+Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında öğrenciyim. Ağ teknolojilerinin yanı sıra yazılım geliştirme süreçlerine de büyük bir tutku duyuyorum. Aktif olarak güçlü ve performanslı yazılımlar üretmek için çalışıyorum.
 
 - 🌱 Şu anda aktif olarak **Java** ve **C#** dilleri üzerinde projeler geliştiriyorum.
 - 🛠️ Temellerine hakim olduğum ve ilgilendiğim diğer diller: **C++** ve **Python**.
