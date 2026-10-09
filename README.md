@@ -36,7 +36,7 @@ Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında öğrenciyim. Ağ teknol
 ## 📫 Benimle İletişime Geçin
 Eğer projelerim hakkında konuşmak veya ağ/yazılım dünyası üzerine fikir alışverişi yapmak isterseniz bana buralardan ulaşabilirsiniz:
 
-- 🌐 **Web Sitesi:** [craftfrostia.net](https://www.craftfrostia.net)
+- 🌐 **Web Sitesi:** [craftfrostia.net]()
 - 📧 **E-posta:** [keepace14@gmail.com](mailto:keepace14@gmail.com)
 
 ![L Lawliet](https://media1.tenor.com/m/0j2SrBcInToAAAAC/l-lawliet-death-note.gif)
